@@ -1,0 +1,9 @@
+body {
+    background-image: url("grey wave 1.png");
+    background-repeat: no-repeat;
+  }
+
+  div.A {
+      padding-right: 100px;
+      text-align: right;
+  }
