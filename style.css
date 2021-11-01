@@ -1,7 +1,10 @@
-body {
-    background-image: url("grey wave 1.png");
-    background-repeat: no-repeat;
-  }
+div.Attels {
+  position: absolute;
+  left: 50px;
+  top: 80px;
+  width: 1479px;
+  height: 776px;
+}
 
   div.A {
       padding-right: 100px;
@@ -14,4 +17,10 @@ body {
 
  div.C {
 color: white;
+font-family: Cambria;
+font-weight: bold;
+font-size: 30px;
+position: absolute;
+left: 310px;
+top: 200px;
  }
